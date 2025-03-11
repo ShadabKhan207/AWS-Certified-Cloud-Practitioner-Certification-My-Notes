@@ -7,6 +7,8 @@
 - Hybrid Deployment
 
 
+
+
 ## Benefits of Cloud Computing
 
 - **Trade upfront/capital(CAPEX) expense for/with variable/operational(OPEX) expense**
